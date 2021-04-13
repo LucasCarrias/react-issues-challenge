@@ -82,7 +82,7 @@ const Search: React.FC = () => {
   }
 
   return (
-    <div className="App">
+    <div>
       <KeyboardEventHandler
         handleKeys={['up', 'down', 'enter']}
         onKeyEvent = {(key,e) => handleKeyboard(key)}

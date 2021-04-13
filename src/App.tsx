@@ -6,9 +6,7 @@ import Search from './components/search/core';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
         <Search />
-      </header>
     </div>
   );
 }
