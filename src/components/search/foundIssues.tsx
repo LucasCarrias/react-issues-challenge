@@ -5,7 +5,7 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
 import ListItemAvatar from '@material-ui/core/ListItemAvatar';
 import Avatar from '@material-ui/core/Avatar';
-import Issue from '../models/issue';
+import Issue from '../../models/issue';
 import { Chip, Collapse } from '@material-ui/core';
 import Markdown from 'markdown-to-jsx';
 
