@@ -1,4 +1,3 @@
-import './App.css';
 import KeyboardEventHandler from 'react-keyboard-event-handler';
 import React, { useEffect, useState } from "react";
 import Issue from '../../models/issue';
