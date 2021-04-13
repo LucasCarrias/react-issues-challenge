@@ -3,7 +3,7 @@ import { createStyles, Theme, makeStyles } from '@material-ui/core/styles';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
-import Issue from '../models/issue';
+import Issue from '../../models/issue';
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
